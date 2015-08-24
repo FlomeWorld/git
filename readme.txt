@@ -1,3 +1,3 @@
-Git is aversion control system
-git is free software
-aaa11111111
+Git is a distributed version control system
+git is free software distributed under the GPL
+
